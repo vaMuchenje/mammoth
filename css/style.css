@@ -331,8 +331,8 @@ figure.cover img {
   padding: 0; }
 
 .logo {
-  background: #fafafa;
-  background: rgba(252, 252, 252, 0.4);
+  /*background: #fafafa;*/
+  background: rgba(252, 252, 252, 0);
   width: 482px;
   height: 102px;
   display: block;
@@ -340,7 +340,7 @@ figure.cover img {
   top: 0;
   left: 0;
   overflow: hidden;
-  box-shadow: 1px 1px 5px 0px rgba(70, 70, 70, 0.2);
+  box-shadow: 1px 1px 5px 0px rgba(70, 70, 70, 0);
   -webkit-transition: .7s ease;
   -moz-transition: .7s ease;
   -ms-transition: .7s ease;
@@ -1364,13 +1364,13 @@ section h2.title {
 
 a.reserve-btn {
   font-size: 20px;
-  border: 1px solid #fff;
-  padding: 15px 30px;
+ /* border: 1px solid #fff; */
+ /* padding: 15px 30px;
   position: absolute;
   top: 78%;
   left: 50%;
   margin-top: -30px;
-  margin-left: -200px;
+  margin-left: -200px;*/
   -webkit-transition: .2s ease;
   -moz-transition: .2s ease;
   -ms-transition: .2s ease;
