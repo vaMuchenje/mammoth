@@ -29,3 +29,13 @@
 	font-weight: 700;
 	font-style: italic;
 }
+
+
+@font-face {
+	font-family: 'Didot';
+	src: url('fonts/OPTIFirminDidot.eot');
+	src: local('☺'), url('fonts/OPTIFirminDidot.woff') format('woff'), url('fonts/AvenirLTStd-Book.ttf') format('truetype'), url('fonts/OPTIFirminDidot.svg') format('svg');
+	/*font-weight: 300;*/
+	font-style: normal;
+
+}
