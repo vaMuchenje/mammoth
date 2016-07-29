@@ -1,5 +1,5 @@
 /*! normalize.css v1.1.3 | MIT License | git.io/normalize */
-article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+article, aside, details, bond, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
   display: block; }
 
 audio, canvas, video {
@@ -1304,6 +1304,9 @@ section h2.title {
 
 #details {
   background: #232526; }
+  
+#bond {
+  background: #232526; }
 
 #reserve {
   /*
@@ -1419,6 +1422,16 @@ a.reserve-btn:hover {
   font-size: 1.4em; }
 
 section#details > .container {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  margin: 0 auto;
+  -webkit-transition: .3s ease;
+  -moz-transition: .3s ease;
+  -ms-transition: .3s ease;
+  transition: .3s ease; }
+  
+section#bond > .container {
   position: relative;
   z-index: 1;
   width: 100%;

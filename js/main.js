@@ -383,6 +383,30 @@ $(document).ready(function(){
 	    },
 	  });
 	});
+	
+	$(window).load(function() {
+	  $(gallery).flexslider({
+	  	namespace: "g-",
+	  	selector: ".slides > .slide",
+	  	slideshow: false,
+	  	controlsContainer: '#bond',
+	  	animationSpeed: '700',
+	    animation: "slide",
+	    before: function(slider){
+	    	$('#bond').removeClass('wait');
+			slider.removeClass('going-left going-right');
+			var currSlide = (slider.currentSlide);
+			var toSlide = (slider.animatingTo);
+			if (currSlide < toSlide) {
+				slider.addClass('going-right');
+			} else {
+				slider.addClass('going-left');
+			}
+	    },
+	  });
+	});
+	
+	
 
 	$(vidPlay).click(function() {
 		var video = $(this).children('video');
