@@ -386,8 +386,8 @@ figure.cover img {
 
 .wayfinding {
   position: fixed;
-  right: 30px;
-  top: 30px;
+  right: 35px;
+  top: 20px;
   text-align: right;
   z-index: 9999; }
 
@@ -1298,7 +1298,7 @@ section h2.title {
   top: 60px; }
 
 .conclusion {
-  background: url(../img/final.jpg) no-repeat center center;
+  background: url(../img/about.jpg) no-repeat center center;
   background-size: cover;
   background: #2a2218; }
 
@@ -1440,7 +1440,88 @@ section#bond > .container {
   -moz-transition: .3s ease;
   -ms-transition: .3s ease;
   transition: .3s ease; }
+  
+section#wt > .container {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  margin: 0 auto;
+  -webkit-transition: .3s ease;
+  -moz-transition: .3s ease;
+  -ms-transition: .3s ease;
+  transition: .3s ease; }
+  
+ section#office > .container {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  margin: 0 auto;
+  -webkit-transition: .3s ease;
+  -moz-transition: .3s ease;
+  -ms-transition: .3s ease;
+  transition: .3s ease; }
 
+ section#anomaly > .container {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  margin: 0 auto;
+  -webkit-transition: .3s ease;
+  -moz-transition: .3s ease;
+  -ms-transition: .3s ease;
+  transition: .3s ease; }
+  
+  section#w22 > .container {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  margin: 0 auto;
+  -webkit-transition: .3s ease;
+  -moz-transition: .3s ease;
+  -ms-transition: .3s ease;
+  transition: .3s ease; }
+  
+  section#ch > .container {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  margin: 0 auto;
+  -webkit-transition: .3s ease;
+  -moz-transition: .3s ease;
+  -ms-transition: .3s ease;
+  transition: .3s ease; }
+
+  section#nuts > .container {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  margin: 0 auto;
+  -webkit-transition: .3s ease;
+  -moz-transition: .3s ease;
+  -ms-transition: .3s ease;
+  transition: .3s ease; }
+  
+  section#madison > .container {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  margin: 0 auto;
+  -webkit-transition: .3s ease;
+  -moz-transition: .3s ease;
+  -ms-transition: .3s ease;
+  transition: .3s ease; }
+  
+  section#soho > .container {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  margin: 0 auto;
+  -webkit-transition: .3s ease;
+  -moz-transition: .3s ease;
+  -ms-transition: .3s ease;
+  transition: .3s ease; }
+  
+  
 .slides-wrap {
   position: absolute;
   top: 0;
@@ -1486,6 +1567,8 @@ section#bond > .container {
 
 .slide p {
   /*text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);*/ }
+  
+  .lighttext { color: #ff0000; }
 
 .slide.light p {
   color: #111;

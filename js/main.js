@@ -3,6 +3,14 @@ $(document).ready(function(){
 // Variables
 
 	var $gallery = $('#gallery'),
+		$gallerybond = $('#gallerybond'),
+		$gallerywt = $('#gallerywt'),
+		$galleryoffice = $('#galleryoffice'),
+		$galleryanomaly = $('#galleryanomaly'),
+		$galleryw22 = $('#galleryw22'),
+		$gallerych = $('#gallerych'),
+		$gallerynuts = $('#gallerynuts'),
+		$gallerymadison = $('#gallerymadison'),
 		$thehood = $('#neighborhood'),
 		$design = $('#design'),
 		$reserve = $('#quote2'),
@@ -385,7 +393,7 @@ $(document).ready(function(){
 	});
 	
 	$(window).load(function() {
-	  $(gallery).flexslider({
+	  $(gallerybond).flexslider({
 	  	namespace: "g-",
 	  	selector: ".slides > .slide",
 	  	slideshow: false,
@@ -394,6 +402,194 @@ $(document).ready(function(){
 	    animation: "slide",
 	    before: function(slider){
 	    	$('#bond').removeClass('wait');
+			slider.removeClass('going-left going-right');
+			var currSlide = (slider.currentSlide);
+			var toSlide = (slider.animatingTo);
+			if (currSlide < toSlide) {
+				slider.addClass('going-right');
+			} else {
+				slider.addClass('going-left');
+			}
+	    },
+	  });
+	});
+	
+	$(window).load(function() {
+	  $(gallerywt).flexslider({
+	  	namespace: "g-",
+	  	selector: ".slides > .slide",
+	  	slideshow: false,
+	  	controlsContainer: '#wt',
+	  	animationSpeed: '700',
+	    animation: "slide",
+	    before: function(slider){
+	    	$('#wt').removeClass('wait');
+			slider.removeClass('going-left going-right');
+			var currSlide = (slider.currentSlide);
+			var toSlide = (slider.animatingTo);
+			if (currSlide < toSlide) {
+				slider.addClass('going-right');
+			} else {
+				slider.addClass('going-left');
+			}
+	    },
+	  });
+	});
+	
+	$(window).load(function() {
+	  $(galleryoffice).flexslider({
+	  	namespace: "g-",
+	  	selector: ".slides > .slide",
+	  	slideshow: false,
+	  	controlsContainer: '#office',
+	  	animationSpeed: '700',
+	    animation: "slide",
+	    before: function(slider){
+	    	$('#office').removeClass('wait');
+			slider.removeClass('going-left going-right');
+			var currSlide = (slider.currentSlide);
+			var toSlide = (slider.animatingTo);
+			if (currSlide < toSlide) {
+				slider.addClass('going-right');
+			} else {
+				slider.addClass('going-left');
+			}
+	    },
+	  });
+	});
+	
+	//anomaly
+	
+	$(window).load(function() {
+	  $(galleryanomaly).flexslider({
+	  	namespace: "g-",
+	  	selector: ".slides > .slide",
+	  	slideshow: false,
+	  	controlsContainer: '#anomaly',
+	  	animationSpeed: '700',
+	    animation: "slide",
+	    before: function(slider){
+	    	$('#anomaly').removeClass('wait');
+			slider.removeClass('going-left going-right');
+			var currSlide = (slider.currentSlide);
+			var toSlide = (slider.animatingTo);
+			if (currSlide < toSlide) {
+				slider.addClass('going-right');
+			} else {
+				slider.addClass('going-left');
+			}
+	    },
+	  });
+	});
+	
+	//w22
+	
+	$(window).load(function() {
+	  $(galleryw22).flexslider({
+	  	namespace: "g-",
+	  	selector: ".slides > .slide",
+	  	slideshow: false,
+	  	controlsContainer: '#w22',
+	  	animationSpeed: '700',
+	    animation: "slide",
+	    before: function(slider){
+	    	$('#w22').removeClass('wait');
+			slider.removeClass('going-left going-right');
+			var currSlide = (slider.currentSlide);
+			var toSlide = (slider.animatingTo);
+			if (currSlide < toSlide) {
+				slider.addClass('going-right');
+			} else {
+				slider.addClass('going-left');
+			}
+	    },
+	  });
+	});
+	
+	//Columbia Heights
+	
+	$(window).load(function() {
+	  $(gallerych).flexslider({
+	  	namespace: "g-",
+	  	selector: ".slides > .slide",
+	  	slideshow: false,
+	  	controlsContainer: '#ch',
+	  	animationSpeed: '700',
+	    animation: "slide",
+	    before: function(slider){
+	    	$('#ch').removeClass('wait');
+			slider.removeClass('going-left going-right');
+			var currSlide = (slider.currentSlide);
+			var toSlide = (slider.animatingTo);
+			if (currSlide < toSlide) {
+				slider.addClass('going-right');
+			} else {
+				slider.addClass('going-left');
+			}
+	    },
+	  });
+	});
+	
+	//nuts
+	
+	$(window).load(function() {
+	  $(gallerynuts).flexslider({
+	  	namespace: "g-",
+	  	selector: ".slides > .slide",
+	  	slideshow: false,
+	  	controlsContainer: '#nuts',
+	  	animationSpeed: '700',
+	    animation: "slide",
+	    before: function(slider){
+	    	$('#nuts').removeClass('wait');
+			slider.removeClass('going-left going-right');
+			var currSlide = (slider.currentSlide);
+			var toSlide = (slider.animatingTo);
+			if (currSlide < toSlide) {
+				slider.addClass('going-right');
+			} else {
+				slider.addClass('going-left');
+			}
+	    },
+	  });
+	});
+	
+	//madison
+	
+	$(window).load(function() {
+	  $(gallerymadison).flexslider({
+	  	namespace: "g-",
+	  	selector: ".slides > .slide",
+	  	slideshow: false,
+	  	controlsContainer: '#madison',
+	  	animationSpeed: '700',
+	    animation: "slide",
+	    before: function(slider){
+	    	$('#madison').removeClass('wait');
+			slider.removeClass('going-left going-right');
+			var currSlide = (slider.currentSlide);
+			var toSlide = (slider.animatingTo);
+			if (currSlide < toSlide) {
+				slider.addClass('going-right');
+			} else {
+				slider.addClass('going-left');
+			}
+	    },
+	  });
+	});
+	
+	//soho
+	
+	$(window).load(function() {
+	  $(gallerymadison).flexslider({
+	  	namespace: "g-",
+	  	selector: ".slides > .slide",
+	  	slideshow: false,
+	  	controlsContainer: '#soho',
+	  	animationSpeed: '700',
+	    animation: "slide",
+	    before: function(slider){
+	    	$('#sogo').removeClass('wait');
 			slider.removeClass('going-left going-right');
 			var currSlide = (slider.currentSlide);
 			var toSlide = (slider.animatingTo);
