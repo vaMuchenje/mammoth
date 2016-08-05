@@ -1309,10 +1309,10 @@ section h2.title {
   background: #232526; }
 
 #reserve {
-  /*
-  		background: #232526 url(../img/reserve.jpg) no-repeat center center;
+ 
+  		background: #232526 url(../img/about.jpg) no-repeat center center;
   		background-size: cover;
-  */ }
+   }
 
 #reserve ul, .conclusion ul {
   position: absolute;
@@ -1521,6 +1521,37 @@ section#wt > .container {
   -ms-transition: .3s ease;
   transition: .3s ease; }
   
+  section#dubai > .container {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  margin: 0 auto;
+  -webkit-transition: .3s ease;
+  -moz-transition: .3s ease;
+  -ms-transition: .3s ease;
+  transition: .3s ease; }
+  
+  section#pav > .container {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  margin: 0 auto;
+  -webkit-transition: .3s ease;
+  -moz-transition: .3s ease;
+  -ms-transition: .3s ease;
+  transition: .3s ease; }
+  
+  section#store > .container {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  margin: 0 auto;
+  -webkit-transition: .3s ease;
+  -moz-transition: .3s ease;
+  -ms-transition: .3s ease;
+  transition: .3s ease; }
+  
+  
   
 .slides-wrap {
   position: absolute;
@@ -1568,7 +1599,8 @@ section#wt > .container {
 .slide p {
   /*text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);*/ }
   
-  .lighttext { color: #ff0000; }
+  .lighttext { color: #fafafa; }
+  .redtext { color: #ff0000; }
 
 .slide.light p {
   color: #111;
