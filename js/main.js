@@ -12,7 +12,7 @@ $(document).ready(function(){
 		$gallerynuts = $('#gallerynuts'),
 		$gallerymadison = $('#gallerymadison'),
 		$gallerysoho = $('#gallerysoho'),
-		$gallerydubai = $('#gallerydubai'),
+		//$gallerydubai = $('#gallerydubai'),
 		$gallerypav = $('#gallerypav'),
 		$gallerystore = $('#gallerystore'),
 		
@@ -609,29 +609,6 @@ $(document).ready(function(){
 	  });
 	});
 	
-	//dubai
-		
-	$(window).load(function() {
-	  $(gallerydubai).flexslider({
-	  	namespace: "g-",
-	  	selector: ".slides > .slide",
-	  	slideshow: false,
-	  	controlsContainer: '#dubai',
-	  	animationSpeed: '700',
-	    animation: "slide",
-	    before: function(slider){
-	    	$('#dubai').removeClass('wait');
-			slider.removeClass('going-left going-right');
-			var currSlide = (slider.currentSlide);
-			var toSlide = (slider.animatingTo);
-			if (currSlide < toSlide) {
-				slider.addClass('going-right');
-			} else {
-				slider.addClass('going-left');
-			}
-	    },
-	  });
-	});
 	
 	//pav
 	$(window).load(function() {
