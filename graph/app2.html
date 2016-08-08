@@ -1,0 +1,27 @@
+<?php
+ini_set('display_errors','on');
+?>
+
+<?php
+    $con = mysql_connect("localhost","json","json") or die('Could not connect: ' . mysql_error());
+    mysql_select_db("json", $con);
+
+    $json = 'audio_clips.json';
+
+
+//$json = '{"foo-bar": 12345}';
+
+$obj = json_decode($json);
+print $obj->{'array'}; // 12345
+
+
+
+
+
+
+
+?>
+
+
+
+

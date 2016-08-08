@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+  
+  
+  Results
+
+<div class="results"></div> 
+ 
+<script>
+ 
+ // ID of the Google Spreadsheet
+ //var spreadsheetID = "SPREADSHEET KEY";
+ //https://spreadsheets.google.com/feeds/list/1g7NPiUEguYLBvSlKSBmhRUbmr9C4qUpDmRT5DBm9if8/od6/public/values?alt=json
+ //https://spreadsheets.google.com/feeds/list/0AtMEoZDi5-pedElCS1lrVnp0Yk1vbFdPaUlOc3F3a2c/od6/public/values?alt=json
+ //https://spreadsheets.google.com/feeds/list/1g7NPiUEguYLBvSlKSBmhRUbmr9C4qUpDmRT5DBm9if8/od6/public/basic?alt=json
+ //https://docs.google.com/spreadsheets/d/1g7NPiUEguYLBvSlKSBmhRUbmr9C4qUpDmRT5DBm9if8/edit?usp=sharing
+ //https://docs.google.com/spreadsheets/d/1g7NPiUEguYLBvSlKSBmhRUbmr9C4qUpDmRT5DBm9if8/pubhtml?gid=0&single=true
+ //https://docs.google.com/spreadsheets/d/1g7NPiUEguYLBvSlKSBmhRUbmr9C4qUpDmRT5DBm9if8/pub?output=csv
+ var spreadsheetID = "1g7NPiUEguYLBvSlKSBmhRUbmr9C4qUpDmRT5DBm9if8";
+ 
+ // Make sure it is public or set to Anyone with link can view 
+//var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
+ //https://docs.google.com/spreadsheets/d/<KEY>/export?format=csv&id=<KEY>
+//  var url = "https://spreadsheets.google.com/feeds/list/1g7NPiUEguYLBvSlKSBmhRUbmr9C4qUpDmRT5DBm9if8/od6/public/basic?alt=json";
+  
+    var url = "https://docs.google.com/spreadsheets/d/1g7NPiUEguYLBvSlKSBmhRUbmr9C4qUpDmRT5DBm9if8/export?format=csv&id=1g7NPiUEguYLBvSlKSBmhRUbmr9C4qUpDmRT5DBm9if8";
+    
+    
+ $.getJSON(url, function(data) {
+ 
+  var entry = data.feed.entry;
+ 
+  $(entry).each(function(){
+    // Column names are name, age, etc.
+    $('.results').prepend('<h2>'+this.gsx$name.$t+'</h2><p>'+this.gsx$age.$t+'</p>');
+  });
+ 
+ });
+ 
+</script>
+
+
+</body>
+</html>
