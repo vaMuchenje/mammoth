@@ -5,16 +5,16 @@ $(document).ready(function(){
 	var $gallery = $('#gallery'),
 		$gallerybond = $('#gallerybond'),
 		$gallerywt = $('#gallerywt'),
-		$galleryoffice = $('#galleryoffice'),
+		//$galleryoffice = $('#galleryoffice'),
 		$galleryanomaly = $('#galleryanomaly'),
 		$galleryw22 = $('#galleryw22'),
-		$gallerych = $('#gallerych'),
+		//$gallerych = $('#gallerych'),
 		$gallerynuts = $('#gallerynuts'),
 		$gallerymadison = $('#gallerymadison'),
 		$gallerysoho = $('#gallerysoho'),
 		//$gallerydubai = $('#gallerydubai'),
 		$gallerypav = $('#gallerypav'),
-		$gallerystore = $('#gallerystore'),
+		//$gallerystore = $('#gallerystore'),
 		
 		
 		
@@ -442,7 +442,7 @@ $(document).ready(function(){
 	    },
 	  });
 	});
-	
+	/*
 	$(window).load(function() {
 	  $(galleryoffice).flexslider({
 	  	namespace: "g-",
@@ -464,6 +464,7 @@ $(document).ready(function(){
 	    },
 	  });
 	});
+	*/
 	
 	//anomaly
 	
@@ -514,7 +515,7 @@ $(document).ready(function(){
 	});
 	
 	//Columbia Heights
-	
+	/*
 	$(window).load(function() {
 	  $(gallerych).flexslider({
 	  	namespace: "g-",
@@ -536,7 +537,7 @@ $(document).ready(function(){
 	    },
 	  });
 	});
-	
+	*/
 	//nuts
 	
 	$(window).load(function() {
@@ -634,6 +635,7 @@ $(document).ready(function(){
 	});
 	
 	//storage
+	/*
 	$(window).load(function() {
 	  $(gallerystore).flexslider({
 	  	namespace: "g-",
@@ -655,7 +657,7 @@ $(document).ready(function(){
 	    },
 	  });
 	});
-	
+	*/
 	
 
 	$(vidPlay).click(function() {
