@@ -9,6 +9,7 @@ $(document).ready(function(){
 		$galleryanomaly = $('#galleryanomaly'),
 		$galleryw22 = $('#galleryw22'),
 		$gallerych = $('#gallerych'),
+		$galleryandela = $('#galleryandela'),
 		$gallerynuts = $('#gallerynuts'),
 		$gallerymadison = $('#gallerymadison'),
 		$gallerysoho = $('#gallerysoho'),
@@ -537,6 +538,31 @@ $(document).ready(function(){
 	    },
 	  });
 	});
+
+		//Andela
+	
+	$(window).load(function() {
+	  $(galleryandela).flexslider({
+	  	namespace: "g-",
+	  	selector: ".slides > .slide",
+	  	slideshow: false,
+	  	controlsContainer: '#andela',
+	  	animationSpeed: '700',
+	    animation: "slide",
+	    before: function(slider){
+	    	$('#andela').removeClass('wait');
+			slider.removeClass('going-left going-right');
+			var currSlide = (slider.currentSlide);
+			var toSlide = (slider.animatingTo);
+			if (currSlide < toSlide) {
+				slider.addClass('going-right');
+			} else {
+				slider.addClass('going-left');
+			}
+	    },
+	  });
+	});
+
 	
 	//nuts
 	

@@ -36,6 +36,7 @@
 				<a href="#intro"><span>Mammoth Intro</span></a>
 				<a href="#anomaly"><span>Project: Anomaly</span></a>
 				<a href="#ch"><span>Project: Columbia Heights</span></a>
+				<a href="#andela"><span>Project: Andela</span></a>
 				<a href="#details"><span>Project: Warren Street</span></a>
 				<a href="#nuts"><span>Project: Nuts.com</span></a>
 				<a href="#wt"><span>Project: Windsor Terrace</span></a>
@@ -272,6 +273,127 @@
 			</div>
 
 		</section>
+
+
+		<!-- andela/////////////////////////////////////////////////////// -->
+
+		<section id="andela" class="gallery section wait">
+
+			<div class="container">
+			<h2 class="title lighttext">Andela</h2>
+			</div>
+
+			<div id="galleryandela" class="slides-wrap fill">
+				<div class="slides">
+
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-01.jpg) no-repeat center center; background-size: cover;"></span>
+						 <p class="lighttext"  style="top:4%;"></p> 
+					</div>
+					
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-02.jpg) no-repeat center center; background-size: cover;"></span>
+						<!--<p class="addbg" style="top:48%;"></p>-->
+					</div>
+					
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-03.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p>
+					</div>
+					
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-04.jpg) no-repeat center center; background-size: cover;"></span>
+						<!-- <p style="top:72%;"></p> -->
+					</div>
+					
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-05.jpg) no-repeat center center; background-size: cover;"></span>
+						<!--<p class="addbg"  style="top:72%;"></p> -->
+					</div>
+					
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-06.jpg) no-repeat center center; background-size: cover;"></span>
+						<!-- <p style="top:72%;"></p> -->
+					</div>
+					
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-07.jpg) no-repeat center center; background-size: cover;"></span>
+						<!-- <p style="top:72%;"></p> -->
+					</div>
+					
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-08.jpg) no-repeat center center; background-size: cover;"></span>
+						<!-- <p class="addbg"  style="top:72%;"></p> -->
+					</div>		
+
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-09.jpg) no-repeat center center; background-size: cover;"></span>
+						<!-- <p class="addbg"  style="top:72%;"></p> -->
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-10.jpg) no-repeat center center; background-size: cover;"></span>
+						<!-- <p class="addbg"  style="top:72%;"></p> -->
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-11.jpg) no-repeat center center; background-size: cover;"></span>
+						<!-- <p class="addbg"  style="top:72%;"></p> -->
+					</div>		
+							
+
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-13.jpg) no-repeat center center; background-size: cover;"></span>
+						<!-- <p class="addbg"  style="top:72%;"></p> -->
+					</div>		
+
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-14.jpg) no-repeat center center; background-size: cover;"></span>
+						<!-- <p class="addbg"  style="top:72%;"></p> -->
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-15.jpg) no-repeat center center; background-size: cover;"></span>
+						<!-- <p class="addbg"  style="top:72%;"></p> -->
+					</div>	
+
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-16.jpg) no-repeat center center; background-size: cover;"></span>
+						<!-- <p class="addbg"  style="top:72%;"></p> -->
+					</div>		
+
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-17.jpg) no-repeat center center; background-size: cover;"></span>
+						<!-- <p class="addbg"  style="top:72%;"></p> -->
+					</div>	
+
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-18.jpg) no-repeat center center; background-size: cover;"></span>
+						<!-- <p class="addbg"  style="top:72%;"></p> -->
+					</div>	
+
+					<div class="slide">
+						<span class="img" style="background: url(img/andela/Andela-19.jpg) no-repeat center center; background-size: cover;"></span>
+						<!-- <p class="addbg"  style="top:72%;"></p> -->
+					</div>	
+					
+					<!-- slide last -->
+					<div class="slide last">
+						<span class="img" style="background: url(img/andela/Andela-20.jpg) no-repeat center center; background-size: cover;"></span>
+						<!-- <p class="addbg"  style="top:72%;"></p> -->
+					</div>
+				
+				</div>
+
+				<nav class="pager">
+				</nav>
+
+				<!-- <p class="pager-txt">Explore more using the boxes above or the arrows&nbsp;below.</p> -->
+
+			</div>
+
+		</section>
+		
 		
 		<!-- WARREN/////////////////////////////////////////////////////// -->
 
