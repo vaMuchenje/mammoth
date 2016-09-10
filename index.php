@@ -35,11 +35,12 @@
 			<nav class="wayfinding">
 				<a href="#intro"><span>Mammoth Intro</span></a>
 				<a href="#anomaly"><span>Project: Anomaly</span></a>
+				<a href="#ch"><span>Project: Columbia Heights</span></a>
 				<a href="#details"><span>Project: Warren Street</span></a>
 				<a href="#nuts"><span>Project: Nuts.com</span></a>
 				<a href="#wt"><span>Project: Windsor Terrace</span></a>
 				<a href="#w22"><span>Project: W 22 nd</span></a>
-				<!--<a href="#ch"><span>Project: Columbia Heights</span></a>-->
+				<!---->
 				<a href="#bond"><span>Project: Bond Street</span></a>
 				<a href="#madison"><span>Project: Madison</span></a>
 				<a href="#soho"><span>Project: Soho</span></a>	
@@ -148,7 +149,129 @@
 			</div>
 
 		</section>
-		
+
+
+		<!-- Columbia Heights /////////////////////////////////////////////////////// -->
+
+		<section id="ch" class="gallery section wait">
+
+			<div class="container">
+			<h2 class="title">Columbia Heights </h2>
+			</div>
+
+			<div id="gallerych" class="slides-wrap fill">
+				<div class="slides">
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5183.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5199-2.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5206.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5339.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5222.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5232.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5241.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5246.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5252.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5265-2.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5276.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5288.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5295.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5298.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5308.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5321-2.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5324.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5375.jpg) no-repeat center center; background-size: cover;"></span>
+					 <p style="top:48%;"></p> 
+					</div>
+
+
+					<div class="slide last">
+						<span class="img" style="background: url(img/columbia/_00A5365.jpg) no-repeat center center; background-size: cover;"></span>
+						<!--<p class="addbg"  style="top:72%;"></p>-->
+					</div>
+				
+				</div>
+
+				<nav class="pager">
+				</nav>
+
+			</div>
+
+		</section>
 		
 		<!-- WARREN/////////////////////////////////////////////////////// -->
 
@@ -391,38 +514,7 @@
 
 		</section>
 		
-		
-		<!-- Columbia Heights /////////////////////////////////////////////////////// -->
-		<!--
-		<section id="ch" class="gallery section wait">
-
-			<div class="container">
-			<h2 class="title">Columbia Heights </h2>
-			</div>
-
-			<div id="gallerych" class="slides-wrap fill">
-				<div class="slides">
-
-					<div class="slide">
-						<span class="img" style="background: url(img/blk.gif) no-repeat center center; background-size: cover;"></span>
-					 <p style="top:48%;">Pending content </p> 
-					</div>
-
-					<div class="slide last">
-						<span class="img" style="background: url(img/details/details-livingroom2.jpg) no-repeat center center; background-size: cover;"></span>
-						<p class="addbg"  style="top:72%;">Nam libero tempore cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus</p>
-					</div>
-				
-				</div>
-
-				<nav class="pager">
-				</nav>
-
-			</div>
-
-		</section>
-		-->
-		
+	
 		
 		<!-- BOND /////////////////////////////////////////////////////// -->
 		<section id="bond" class="bond section wait">

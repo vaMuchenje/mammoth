@@ -8,7 +8,7 @@ $(document).ready(function(){
 		//$galleryoffice = $('#galleryoffice'),
 		$galleryanomaly = $('#galleryanomaly'),
 		$galleryw22 = $('#galleryw22'),
-		//$gallerych = $('#gallerych'),
+		$gallerych = $('#gallerych'),
 		$gallerynuts = $('#gallerynuts'),
 		$gallerymadison = $('#gallerymadison'),
 		$gallerysoho = $('#gallerysoho'),
@@ -515,7 +515,7 @@ $(document).ready(function(){
 	});
 	
 	//Columbia Heights
-	/*
+	
 	$(window).load(function() {
 	  $(gallerych).flexslider({
 	  	namespace: "g-",
@@ -537,7 +537,7 @@ $(document).ready(function(){
 	    },
 	  });
 	});
-	*/
+	
 	//nuts
 	
 	$(window).load(function() {
