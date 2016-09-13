@@ -1608,16 +1608,34 @@ section#wt > .container {
   position: relative;
   -webkit-backface-visibility: hidden; }
 
+
+
+
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) { 
 .slide p {
+  /*
   -webkit-backface-visibility: hidden;
   z-index: 999;
-  /*color: #231F20;*/
   position: absolute;
   right: 10%;
   width: 30%;
-  top: 20%;
-  font-size: 22px;
-  line-height: 1.7em; }
+  font-size: 14px;
+  line-height: 1.7em; 
+ bottom: 0;
+*/
+visibility: hidden;
+}
+  }
+
+
+  
+
+
+
+
 
 .slide p.addbg {
   background: rgba(255, 255, 255, 0.8);
