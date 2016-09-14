@@ -361,6 +361,20 @@ figure.cover img {
   -ms-transition: .7s ease;
   transition: .7s ease; }
 
+
+
+  @media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) { 
+.logo {
+width: 395px;
+}
+  }
+
+
+
+
+
 .csstransitions .logo {
   transform: translateX(-182px);
   -moz-transform: translateX(-182px);
@@ -787,8 +801,6 @@ section h2.title {
 /* Section */
 
 #intro .introcontact {
-  
- 
   position: absolute;
   top: 88px;
   left: 48px;
@@ -801,6 +813,21 @@ section h2.title {
   
 #intro .introcontact  a {color:#fafafa}
 #intro .introcontact  p {color:#fafafa;  line-height: 150%;}
+
+
+  @media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) { 
+
+#intro .introcontact {
+    left: 5px;
+  }
+  }
+
+
+
+
+
   
 #intro .container {
   position: absolute;
