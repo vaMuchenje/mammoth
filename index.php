@@ -61,29 +61,20 @@
 
 		<section id="intro" class="intro section">
 			
-			
-			
-			<figure class="cover" style="background: url(img/hero.jpg) no-repeat center bottom; background-size: cover;">
-			
 
- 
-				<!-- <img src="img/hero-penthouse.jpg"> -->
+			<figure class="cover" style="background: url(img/hero.jpg) no-repeat center bottom; background-size: cover;">
 			</figure>
 			
-		
+	
 					
 		<div class="introcontact" ><p class="fadein" data-delay="2.4">
 		<a class="" href="mailto:hello@mammothewyork.com?subject=Mammoth Web Inquiry">hello@mammothewyork.com</a><br>
  		<a href="tel:1-646-662-7829">+ 1 646 662 7829</a></p>
  		</div>
 		
-			<!--<div class="container center">-->
 				<div class="container">
-					
 
- 
- 
-				<h1 class="fadein" data-delay=".8">MAMMOTH | New York</h1>
+				<!--<h1 class="fadein" data-delay=".8">MAMMOTH | New York</h1>-->
 				<p class="fadein" data-delay="1.4"></span></p>
 			</div>
 		</section>
