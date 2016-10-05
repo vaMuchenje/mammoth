@@ -49,7 +49,7 @@
 				<!--<a href="#office"><span>Project: Manhattan Office </span></a>-->
 				<!--<a href="#store"><span>Project: Storage </span></a>-->
 				<a href="#reserve"><span>Press</span></a>
-				<!-- <a href="#quote2"><span>About / Contact</span></a> -->
+				<a href="#about"><span>About / Contact</span></a> 
 
 				<!--Reboot, Dubai-->
 
@@ -69,7 +69,7 @@
 
 			<div class="introcontact" ><p class="fadein" data-delay="2.4">
 				<a class="" href="mailto:hello@mammothewyork.com?subject=Mammoth Web Inquiry">hello@mammothewyork.com</a><br>
-				<a href="tel:1-646-662-7829">+ 1 646 662 7829</a></p>
+				<a href="tel:1-646-662-7829" style="text-decoration:none;">tel:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ 1 646 662 7829</a></p>
 			</div>
 
 			<div class="container">
@@ -142,118 +142,56 @@
 
 		</section>
 
-
-		<!-- Columbia Heights /////////////////////////////////////////////////////// -->
-
-		<section id="ch" class="gallery section wait">
+		<!-- w22 /////////////////////////////////////////////////////// -->
+		<section id="w22" class="gallery section wait">
 
 			<div class="container">
-				<h2 class="title">Columbia Heights </h2>
+				<h2 class="title lighttext">W 22 nd </h2>
 			</div>
 
-			<div id="gallerych" class="slides-wrap fill">
+			<div id="galleryw22" class="slides-wrap fill">
 				<div class="slides">
 
 					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5183.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
-					</div>
-
-					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5199-2.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
+						<span class="img" style="background: url(img/w22/w22_690.jpg) no-repeat center center; background-size: cover;"></span>
+						<p class="lighttext" style="top:5%;">For a young family living in a landmarked brownstone in Chelsea, the renovation focused on bringing in light and a casual vibe into a garden level apartment.</p> 
 					</div>
 
 
 					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5206.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
+						<span class="img" style="background: url(img/w22/w22_0493.jpg) no-repeat center center; background-size: cover;"></span>
+						<!--<p class="addbg" style="top:48%;"> </p>-->
 					</div>
 
 					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5339.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
+						<span class="img" style="background: url(img/w22/w22_0670.jpg) no-repeat center center; background-size: cover;"></span>
+						<!--<p  style="top:48%;"></p>-->
 					</div>
 
 					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5222.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
+						<span class="img" style="background: url(img/w22/w22_0485.jpg) no-repeat center center; background-size: cover;"></span>
+						<!--<p style="top:48%;"> </p>-->
 					</div>
 
 					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5232.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
+						<span class="img" style="background: url(img/w22/w22_0708.jpg) no-repeat center center; background-size: cover;"></span>
+						<!--<p style="top:48%;"> </p>-->
 					</div>
 
 					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5241.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
+						<span class="img" style="background: url(img/w22/w22_0754.jpg) no-repeat center center; background-size: cover;"></span>
+						<!--<p style="top:48%;"> </p>-->
 					</div>
 
 					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5246.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
-					</div>
+						<span class="img" style="background: url(img/w22/w22_0817.jpg) no-repeat center center; background-size: cover;"></span>
+						<!--<p style="top:48%;"> </p>-->
+					</div>			
 
-					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5252.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
-					</div>
-
-
-					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5265-2.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
-					</div>
-
-
-					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5276.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
-					</div>
-
-
-					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5288.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
-					</div>
-
-
-					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5295.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
-					</div>
-
-					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5298.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
-					</div>
-
-					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5308.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
-					</div>
-
-					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5321-2.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
-					</div>
-
-					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5324.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
-					</div>
-
-
-					<div class="slide">
-						<span class="img" style="background: url(img/columbia/_00A5375.jpg) no-repeat center center; background-size: cover;"></span>
-						<p style="top:48%;"></p> 
-					</div>
-
-
+					<!-- slide last -->
 					<div class="slide last">
-						<span class="img" style="background: url(img/columbia/_00A5365.jpg) no-repeat center center; background-size: cover;"></span>
-						<!--<p class="addbg"  style="top:72%;"></p>-->
+						<span class="img" style="background: url(img/w22/w22_0833.jpg) no-repeat center center; background-size: cover;"></span>
+						<!--<p style="top:48%;"> </p>-->
 					</div>
 
 				</div>
@@ -261,10 +199,11 @@
 				<nav class="pager">
 				</nav>
 
+				<!-- <p class="pager-txt">Explore more using the boxes above or the arrows&nbsp;below.</p> -->
+
 			</div>
 
 		</section>
-
 
 		<!-- andela/////////////////////////////////////////////////////// -->
 
@@ -409,7 +348,7 @@
 					</div>
 
 					<div class="slide">
-						<span class="img" style="background: url(img/details/details-kitchen2.jpg) no-repeat center center; background-size: cover;"></span>
+						<span class="img" style="background: url(img/details/details-kitchen2.jpg) no-repeat center center; background-size: contain;"></span>
 					</div>
 
 					<!-- Sldie last -->
@@ -564,56 +503,117 @@
 
 		</section>
 
-		<!-- w22 /////////////////////////////////////////////////////// -->
-		<section id="w22" class="gallery section wait">
+		<!-- Columbia Heights /////////////////////////////////////////////////////// -->
+
+		<section id="ch" class="gallery section wait">
 
 			<div class="container">
-				<h2 class="title lighttext">W 22 nd </h2>
+				<h2 class="title">Columbia Heights </h2>
 			</div>
 
-			<div id="galleryw22" class="slides-wrap fill">
+			<div id="gallerych" class="slides-wrap fill">
 				<div class="slides">
 
 					<div class="slide">
-						<span class="img" style="background: url(img/w22/w22_690.jpg) no-repeat center center; background-size: cover;"></span>
-						<p class="lighttext" style="top:5%;">For a young family living in a landmarked brownstone in Chelsea, the renovation focused on bringing in light and a casual vibe into a garden level apartment.</p> 
+						<span class="img" style="background: url(img/columbia/_00A5183.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5199-2.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
 					</div>
 
 
 					<div class="slide">
-						<span class="img" style="background: url(img/w22/w22_0493.jpg) no-repeat center center; background-size: cover;"></span>
-						<!--<p class="addbg" style="top:48%;"> </p>-->
+						<span class="img" style="background: url(img/columbia/_00A5206.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
 					</div>
 
 					<div class="slide">
-						<span class="img" style="background: url(img/w22/w22_0670.jpg) no-repeat center center; background-size: cover;"></span>
-						<!--<p  style="top:48%;"></p>-->
+						<span class="img" style="background: url(img/columbia/_00A5339.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
 					</div>
 
 					<div class="slide">
-						<span class="img" style="background: url(img/w22/w22_0485.jpg) no-repeat center center; background-size: cover;"></span>
-						<!--<p style="top:48%;"> </p>-->
+						<span class="img" style="background: url(img/columbia/_00A5222.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
 					</div>
 
 					<div class="slide">
-						<span class="img" style="background: url(img/w22/w22_0708.jpg) no-repeat center center; background-size: cover;"></span>
-						<!--<p style="top:48%;"> </p>-->
+						<span class="img" style="background: url(img/columbia/_00A5232.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
 					</div>
 
 					<div class="slide">
-						<span class="img" style="background: url(img/w22/w22_0754.jpg) no-repeat center center; background-size: cover;"></span>
-						<!--<p style="top:48%;"> </p>-->
+						<span class="img" style="background: url(img/columbia/_00A5241.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
 					</div>
 
 					<div class="slide">
-						<span class="img" style="background: url(img/w22/w22_0817.jpg) no-repeat center center; background-size: cover;"></span>
-						<!--<p style="top:48%;"> </p>-->
-					</div>			
+						<span class="img" style="background: url(img/columbia/_00A5246.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
+					</div>
 
-					<!-- slide last -->
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5252.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
+					</div>
+
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5265-2.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
+					</div>
+
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5276.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
+					</div>
+
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5288.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
+					</div>
+
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5295.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5298.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5308.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5321-2.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
+					</div>
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5324.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
+					</div>
+
+
+					<div class="slide">
+						<span class="img" style="background: url(img/columbia/_00A5375.jpg) no-repeat center center; background-size: cover;"></span>
+						<p style="top:48%;"></p> 
+					</div>
+
+
 					<div class="slide last">
-						<span class="img" style="background: url(img/w22/w22_0833.jpg) no-repeat center center; background-size: cover;"></span>
-						<!--<p style="top:48%;"> </p>-->
+						<span class="img" style="background: url(img/columbia/_00A5365.jpg) no-repeat center center; background-size: cover;"></span>
+						<!--<p class="addbg"  style="top:72%;"></p>-->
 					</div>
 
 				</div>
@@ -621,12 +621,9 @@
 				<nav class="pager">
 				</nav>
 
-				<!-- <p class="pager-txt">Explore more using the boxes above or the arrows&nbsp;below.</p> -->
-
 			</div>
 
 		</section>
-
 
 
 		<!-- BOND /////////////////////////////////////////////////////// -->
@@ -807,6 +804,8 @@
 	</div>
 
 </section>
+
+
 
 
 <!-- pavillion /////////////////////////////////////////////////////// -->
